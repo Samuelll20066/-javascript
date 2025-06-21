@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+# Fundamentos do Javascript Clássico 
+
+## INTEGRAÇÕES
+
+### Integrar Javascript de forma interna 
+
+~~~ html
+ <!DOCTYPE html>
     <html lang="pt-BR">
         <head>
             <meta charset="UTF-8">
@@ -11,3 +18,4 @@
             </script> 
         </body>
     </html>
+~~~
