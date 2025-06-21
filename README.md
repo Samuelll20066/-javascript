@@ -148,3 +148,30 @@ var MyName;
 
 // snake case
 var My_name;
+
+~~~
+
+## TIPOS DE DADOS
+
+### Primitivos 
+
+~~~ javascript
+./src/script.js
+
+// string
+var name = "Alex";
+var surname = 'Bessa';
+
+//number
+var age = 29;
+var weight = 85.6;
+
+//boolean
+var active = true;
+var permission = false;
+
+//undefined
+var contains;
+console.log(contains);
+
+~~~
