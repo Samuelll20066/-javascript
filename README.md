@@ -45,3 +45,19 @@
         </body>
     </html>
 ~~~
+
+## COMENTÁRIOS 
+
+### Comentário de linha
+
+~~~ javascript
+// comentário de linha 
+~~~
+~~~ javascript
+/* comentário de bloco simples */
+~~~
+~~~ javascript
+/**
+ * comentário de bloco com marcador 
+ */
+~~~
